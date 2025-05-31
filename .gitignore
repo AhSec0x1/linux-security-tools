@@ -1,0 +1,8 @@
+# Ignore temporary files
+*.tmp
+
+# Ignore downloaded files
+downloads/
+
+# Ignore personal notes
+notes.txt
